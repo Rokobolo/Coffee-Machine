@@ -1,5 +1,4 @@
 from menu import MENU
-# Testobolo on NEW
 
 def print_report(resources):
     for key in resources:
